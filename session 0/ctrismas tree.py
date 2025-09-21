@@ -1,6 +1,5 @@
-x = int(input())
-for i in range(x):
-    spaces = x-i
-    num = 2*i+1
-    print((' '*spaces)+'*'*num)
+def christmas_tree(int):
+    x = int(int)
+    for i in range(x):
+        print((' '*(x-i))+'*'*(2*i+1))
 
