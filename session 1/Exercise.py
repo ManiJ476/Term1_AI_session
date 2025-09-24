@@ -7,8 +7,7 @@ median_value = statistics.median(data)
 
 print(f"The median is: {median_value}")
 
-from contextlib import contextmanager
-@contextmanager
+#from contextlib import contextmanager
 
-#def stat_med(data):
-   #for x in 
+#@contextmanager
+
