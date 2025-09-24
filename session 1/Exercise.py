@@ -10,5 +10,5 @@ print(f"The median is: {median_value}")
 from contextlib import contextmanager
 @contextmanager
 
-def stat_med(data):
-    for x in 
+#def stat_med(data):
+   #for x in 
